@@ -46,3 +46,9 @@ private.json
 !.env.example
 *.bak-*
 =1.4.1
+
+# 聯盟資料與暫存（有其他玩家名字，不公開）
+data/
+dashboard_data/
+logs/
+.DS_Store
